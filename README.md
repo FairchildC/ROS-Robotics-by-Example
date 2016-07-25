@@ -1,12 +1,15 @@
 # ROS-Robotics-by-Example
-ROS Robotics By Example -> book source code listed by chapter
+
+<a href="https://www.packtpub.com/hardware-and-creative/ros-robotics-example"><img src=https://www.packtpub.com/sites/default/files/5193OS_4506_ROS%20Robotics%20By%20Example.jpg width=200/></a>
+
+Book source code listed by chapter
 
 Bring life to your robot using ROS robotic applications
 
 Authors:  Carol Fairchild and Dr. Thomas L. Harman
 
-Table of Contents
------------------
+Book Table of Contents 
+----------------------
 Chapter 1:  Getting Started with ROS
 
 Chapter 2:  Creating Your First Two-Wheeled ROS Robot (in Simulation)
